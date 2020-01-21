@@ -57,7 +57,3 @@ _Please remove non-applicable items_
 ## Blocked by / depends on
 
 _Please link issues/epics here which have to be solved before_
-
-## Timeline
-
-_Please add info regarding deadlines/timelines, if available._
