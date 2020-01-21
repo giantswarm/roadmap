@@ -39,10 +39,10 @@ _Please give all possible details, requirements, etc. Technical or not._
 - Frontend changes
 - Other (please describe)
 
-## Host/guest cluster
+## Control Plane / Tenant Cluster
 
-- Host cluster
-- Guest cluster
+- Control Plane 
+- Tenant Cluster
 
 _Please remove non-applicable items_
 

@@ -1,7 +1,12 @@
 ---
 name: G8s Release
 about: Template for a to-do issue to track a new g8s release
+title: ''
+labels: ''
+assignees: ''
+
 ---
+
 <!--
 Please set the correct K8s version and provide a correct link to the changelog.
 -->
