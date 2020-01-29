@@ -9,7 +9,7 @@ Refer to this [issues](https://github.com/giantswarm/roadmap/issues) list to sea
 ## FAQs
 **Q: Why did we build this?**
 
-A: In the spirit of the open source eco-system and towards the goal of delighting our customers, we are completely transparent with our roadmap. We want to provide our customers the opportunity to understand better how we work, how decisions were made and what priorities we have.
+A: In the spirit of the open source ecosystem and towards the goal of delighting our customers, we are completely transparent with our roadmap. We want to provide our customers the opportunity to understand better how we work, how decisions were made, and what priorities we have.
 
 **Q: Why are there no dates on our roadmap?**
 
