@@ -34,8 +34,6 @@ This is our construction site and you get a clear view of what it is that we are
 **Shipped**
 Congratulations! The feature is now available to you. Let us know what you think.
 
-> [name=oshrat - Buffer has a 'leaving it for now' column. I think that would be useful for us, since sometimes we reprioritize for many reasons and don't necessarily want to put it back in 'ready to develop']
-
 **Q: Are all our plans and project on the roadmap?**
 
 A: Typicaly yes. Please note, that things may move around, we may do things we didn't list and cancel things that we planned. 
@@ -44,12 +42,4 @@ A: Typicaly yes. Please note, that things may move around, we may do things we d
 
 A: We encourage you to comment and provide feedback on the issues themselves.
 
-**Q: How can I request a feature be added to the roadmap?**
-
-> [name=oshrat - Do we refer to the 'Contact Us' page on the website, or is there a way via GitHub that is preferable and we should mention]
-
-> [name=snizhana - Do we want to allow users to create issues directly for feature requests?]
-
 Learn more about Giant Swarm at https://www.giantswarm.io
- 
-> [name=oshrat - do we want to add a security disclosure and/or license like AWS?]
