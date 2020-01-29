@@ -50,9 +50,6 @@ A: We encourage you to comment and provide feedback on the issues themselves.
 
 > [name=snizhana - Do we want to allow users to create issues directly for feature requests?]
 
-
 Learn more about Giant Swarm at https://www.giantswarm.io
-
-> [name=oshrat - The above links to the product page on the website. What additional information do we want a reader to find there?]
-> 
+ 
 > [name=oshrat - do we want to add a security disclosure and/or license like AWS?]
