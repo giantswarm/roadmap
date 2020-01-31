@@ -42,4 +42,9 @@ A: Typicaly yes. Please note, that things may move around, we may do things we d
 
 A: We encourage you to comment and provide feedback on the issues themselves.
 
+**Q: How can I request a feature be added to the roadmap?**
+
+A: Please open an issue! Please only use [Feature Request](https://github.com/giantswarm/roadmap/issues/new?assignees=&labels=feature-request&template=feature_request.md&title=) template for submitting your ideas. Community submitted issues will be tagged "Feature-request" and will be reviewed by the team.
+
+
 Learn more about Giant Swarm at https://www.giantswarm.io
