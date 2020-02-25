@@ -17,21 +17,21 @@ A: Our primary focus is on security and operational stability. As such, we can't
 
 **Q: What do the roadmap categories mean?**
 
-A: We have 6 columns in order to allow us to be very clear on the stages of the development process:
+A: We have 5 columns in order to allow us to be very clear on the stages of the development process:
 
-**Under consideration:**
+- **Under consideration:**
 This lists the features we are thinking about. We have not committed to them yet, since we are still checking with our customers, upstream and the market as a whole.
 
-**In design**
+- **In design**
 These are features we know we want to build and are thinking about how to build them well.
 
-**Ready to develop**
+- **Ready to develop**
 At this stage we know what we want to build and how we plan to build it. These features are next up to be allocated to development teams.
 
-**In development**
+- **In development**
 This is our construction site and you get a clear view of what it is that we are building at the moment.
 
-**Shipped**
+- **Shipped**
 Congratulations! The feature is now available to you. Let us know what you think.
 
 **Q: Are all our plans and project on the roadmap?**
