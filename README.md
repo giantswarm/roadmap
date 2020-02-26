@@ -4,7 +4,7 @@ This repository represents Giant's Swarm's product roadmap.
 
 The [Giant Swarm Roadmap project](https://github.com/giantswarm/roadmap/projects/1) provides a **Kanban-style overview** of  things we are working on by the development stage they are in, even if we are still thinking about them.
 
-Refer to this [issues](https://github.com/giantswarm/roadmap/issues) list to search roadmap stories. 
+Refer to this [issues](https://github.com/giantswarm/roadmap/issues) list to search roadmap stories.
 
 ## FAQs
 **Q: Why did we build this?**
@@ -36,7 +36,7 @@ Congratulations! The feature is now available to you. Let us know what you think
 
 **Q: Are all our plans and project on the roadmap?**
 
-A: Typicaly yes. Please note, that things may move around, we may do things we didn't list and cancel things that we planned. 
+A: Typicaly yes. Please note, that things may move around, we may do things we didn't list and cancel things that we planned.
 
 **Q: How can I provide feedback or ask for more information?**
 
@@ -46,5 +46,8 @@ A: We encourage you to comment and provide feedback on the issues themselves.
 
 A: Please open an issue! Please only use [Feature Request](https://github.com/giantswarm/roadmap/issues/new?assignees=&labels=feature-request&template=feature_request.md&title=) template for submitting your ideas. Community submitted issues will be tagged "Feature-request" and will be reviewed by the team.
 
+## License
+
+PROJECT is under the Apache 2.0 license. See the [LICENSE](LICENSE) file for details.
 
 Learn more about Giant Swarm at https://www.giantswarm.io
