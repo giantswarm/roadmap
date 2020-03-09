@@ -1,0 +1,44 @@
+name: Add Issue to Project When Labeled
+on:
+  issues:
+    types: [labeled]
+jobs:
+  job:
+    # This job is run when a label is added to a GitHub Issue.
+    #
+    # Succinctly, we grab the newly added label from the event payload,
+    # loop over all defined label project pairs,
+    # and create a Project Card in the appropriate Column if the label matches.
+    #
+    # The GitHub Project API does not support 'adding' an Issue to a Project.
+    # Instead, we need to create a Project Card in a specific Column.
+    # Therefore, the mapping is between labels (e.g: 'team/magic') and
+    # Column IDs (e.g: '1527540').
+    #
+    # The name of the environment variables doesn't matter, but must start with 'GS_'.
+    # We currently only support one column per label. That is, we cannot currently
+    # add an issue to multiple Projects with the same label.
+    #
+    # To find a Column ID, press the three dots on a column, and select
+    # 'Copy column link'. The Column ID can be found in this URL.
+    # e.g: https://github.com/orgs/giantswarm/projects/30#column-1527540
+    # has a column ID of 1527540.
+    name: Add Issue to Project When Labeled
+    runs-on: ubuntu-latest
+    steps:
+    - name: Create Project Card for Issue in appropriate Project Column
+      env:
+        GS_POSTMORTEM: feature-request,534325                # Product Board Inbox
+      run: |
+        new_label=$(cat $GITHUB_EVENT_PATH | jq -r .label.name)
+        for envvar in $(env | grep GS_ | awk -F '=' '{print $2}'); do
+            label=$(echo $envvar | awk -F ',' '{print $1}')
+            column_id=$(echo $envvar | awk -F ',' '{print $2}')
+
+            if [[ "$new_label" == "$label" ]]; then
+                curl https://api.github.com/projects/columns/$column_id/cards \
+                    --header 'authorization: Bearer ${{ secrets.LABEL_PROJECT_TOKEN }}' \
+                    --header 'Accept: application/vnd.github.inertia-preview+json' \
+                    --data "{\"content_id\": $(cat $GITHUB_EVENT_PATH | jq .issue.id), \"content_type\": \"Issue\"}"
+            fi
+        done
