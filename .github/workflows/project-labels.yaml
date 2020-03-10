@@ -28,7 +28,7 @@ jobs:
     steps:
     - name: Create Project Card for Issue in appropriate Project Column
       env:
-        GS_POSTMORTEM: feature-request,534325                # Product Board Inbox
+        GS_FEATUREREQUEST: feature-request,534325                # Product Board Inbox
       run: |
         new_label=$(cat $GITHUB_EVENT_PATH | jq -r .label.name)
         for envvar in $(env | grep GS_ | awk -F '=' '{print $2}'); do
