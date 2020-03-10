@@ -34,9 +34,10 @@ This is our construction site and you get a clear view of what it is that we are
 - **Shipped:**
 Congratulations! The feature is now available to you. Let us know what you think.
 
-**Q: Are all our plans and project on the roadmap?**
+**Q: Are all our plans and projects on the roadmap?**
 
 A: Typicaly yes. Please note, that things may move around, we may do things we didn't list and cancel things that we planned.
+We track postmortems and security related issues separately and don't include them in the Roadmap.
 
 **Q: How can I provide feedback or ask for more information?**
 
