@@ -22,11 +22,11 @@ A: We have 5 columns in order to allow us to be very clear on the stages of the 
 - **Under consideration:**
 This lists the features we are thinking about. We have not committed to them yet, since we are still checking with our customers, upstream and the market as a whole.
 
-- **In design:**
-These are features we know we want to build and are thinking about how to build them well.
+- **Planned:**
+At this stage we know what we want to build and when we plan to build it. These features are next up to be allocated to development teams.
 
-- **Ready to develop:**
-At this stage we know what we want to build and how we plan to build it. These features are next up to be allocated to development teams.
+- **In design:**
+At this stage we are thinking about how to build them well. We are working on technical specifications, designs, PoCs.
 
 - **In development:**
 This is our construction site and you get a clear view of what it is that we are building at the moment.
