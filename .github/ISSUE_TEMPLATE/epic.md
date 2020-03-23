@@ -18,7 +18,7 @@ Please assign appropriate labels:
 * product (for product area, choose between `product/kaas`, `product/managed-services`, `product/empowerment`)
 * provider (for provider-specific features, choose between `provider/aws`, `provider/azure`, `provider/kvm`)
 * team (use team/null if you are not sure)
-*area (functional area if applicable, e.g. `area/observability` or `area/security`)
+* area (functional area if applicable, e.g. `area/observability` or `area/security`)
 
 Please assign appropriate projects:
 * Giant Swarm Roadmap
