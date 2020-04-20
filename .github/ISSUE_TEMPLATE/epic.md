@@ -26,44 +26,11 @@ Please assign appropriate projects:
 
 ## User Story
 
-As a (customer|user|admin|...) I want to ... so that ...
-
-## TODO
-
-- [ ] item 1
-  - [ ] item 1.1
-- [ ] item 2
-
-_Please complete the TODO list as possible_
+_- As a (customer|user|admin|...) I want to ... so that ..._
 
 ## Details, Background
 
 _Please give all possible details, requirements, etc. Technical or not._
-
-## Deliverables
-
-- Deployed software
-- Monitoring/alerting
-- API changes
-- Public documentation
-- Internal documentation
-- Frontend changes
-- Other (please describe)
-
-## Control Plane / Tenant Cluster
-
-- Control Plane 
-- Tenant Cluster
-
-_Please remove non-applicable items_
-
-## Provider
-
-- AWS
-- Azure
-- KVM / bare metal
-
-_Please remove non-applicable items_
 
 ## Blocked by / depends on
 
