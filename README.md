@@ -60,6 +60,10 @@ A: We encourage you to comment and provide feedback on the issues themselves.
 
 A: Please open an issue! Please only use [Feature Request](https://github.com/giantswarm/roadmap/issues/new?assignees=&labels=feature-request&template=feature_request.md&title=) template for submitting your ideas. Community submitted issues will be tagged "Feature-request" and will be reviewed by the team.
 
+## Security disclosures
+
+If you think you’ve found a potential security issue, please follow the instructions [here](https://www.giantswarm.io/responsible-disclosure).
+
 ## License
 
 PROJECT is under the Apache 2.0 license. See the [LICENSE](LICENSE) file for details.
