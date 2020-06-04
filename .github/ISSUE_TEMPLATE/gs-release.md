@@ -1,6 +1,6 @@
 ---
-name: G8s Release
-about: Template for a to-do issue to track a new g8s release
+name: Giant Swarm Tenant Cluster Release
+about: Template for a to-do issue to track a new Giant Swarm Tenant Cluster release
 title: ''
 labels: ''
 assignees: ''
