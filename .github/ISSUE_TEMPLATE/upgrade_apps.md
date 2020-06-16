@@ -1,6 +1,6 @@
 ---
 name: Upgrade Apps
-about: Suggest an idea for this project
+about: Create issue to upgrade Managed Apps
 title: Managed Apps Upgrades (Week of {enter date})
 labels: team/halo, kind/upgrade
 assignees: ''
