@@ -38,14 +38,14 @@ Congratulations! The feature is now available to you. Let us know what you think
 
 A: Teams in Giant Swarm are devided into 3 product areas:
 
-- [**KaaS (Kubernetes as a Service):**](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aproduct%2Fkaas)
-Improving Giant Swarm's product offering for customers running their operations on Azure, AWS, onprem as well as keeping up to date with new kubernetes versions. Use label [`product/kaas`](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aproduct%2Fkaas) to filter features for this area or corresponding `provider` labels to view only provider-related features (e.g. [`provider/aws`](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aprovider%2Faws), [`provider/azure`](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aprovider%2Fazure))
+- [**KaaS (Kubernetes as a Service):**](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aarea%2Fkaas)
+Improving Giant Swarm's product offering for customers running their operations on Azure, AWS, onprem as well as keeping up to date with new kubernetes versions. Use label [`area/kaas`](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aarea%2Fkaas) to filter features for this area or corresponding `provider` labels to view only provider-related features (e.g. [`provider/aws`](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aprovider%2Faws), [`provider/azure`](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aprovider%2Fazure))
 
-- [**Managed services:**](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aproduct%2Fmanaged-services)
-Enabling our customers to get the most out of their cloud-native stack, by offering fully managed optional Apps. Use label [`product/managed-services`](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aproduct%2Fmanaged-services) to filter features for this area.
+- [**Managed Apps:**](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aarea%2Fmanaged-apps)
+Enabling our customers to get the most out of their cloud-native stack, by offering fully managed optional Apps. Use label [`area/managed-apps`](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aproduct%2Fmanaged-apps) to filter features for this area.
 
-- [**Empowerment:**](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aproduct%2Fempowerment) 
-Empowering other product teams by improving our internal platforms, particularly towards release engineering, observability, and operations. Use label [`product/empowerment`](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aproduct%2Fempowerment) to filter features for this area.
+- [**Empowerment:**](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aarea%2Fempowerment) 
+Empowering other product teams by improving our internal platforms, particularly towards release engineering, observability, and operations. Use label [`area/empowerment`](https://github.com/giantswarm/roadmap/projects/1?fullscreen=true&card_filter_query=label%3Aarea%2Fempowerment) to filter features for this area.
 
 **Q: Are all our plans and projects on the roadmap?**
 
