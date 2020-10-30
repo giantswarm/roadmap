@@ -17,7 +17,7 @@ A: Our primary focus is on security and operational stability. As such, we can't
 
 **Is it possible to know which features will be included in which release?**
 
-A: Yes! We use [Milestones](https://github.com/giantswarm/roadmap/milestones) to group features by Releases so our customers can plan ahead.
+A: Yes! We use [Milestones](https://github.com/giantswarm/roadmap/milestones) to group features by releases so our customers can plan ahead.
 
 https://github.com/giantswarm/roadmap/milestones
 
