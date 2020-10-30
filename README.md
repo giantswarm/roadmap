@@ -15,7 +15,7 @@ A: In the spirit of the open source ecosystem and towards the goal of delighting
 
 A: Our primary focus is on security and operational stability. As such, we can't provide specific target dates for features.
 
-**Is it possible to know which features included in which Release?**
+**Is it possible to know which features will be included in which release?**
 
 A: Yes! We use [Milestones](https://github.com/giantswarm/roadmap/milestones) to group features by Releases so our customers can plan ahead.
 
