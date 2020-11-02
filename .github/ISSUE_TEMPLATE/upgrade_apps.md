@@ -72,6 +72,8 @@ https://github.com/giantswarm/aqua-app
 * Link to latest release: 
 * If won't upgrade, why? @jgsqware or @yasn77 we'll skip checking for any upgrades unless you tell us to.
 
+---
+
 Notes
 * Team divides the app upgrades amongst ourselves. Please add @ name beside the app
 * [30 Day Upgrade Promise](https://intranet.giantswarm.io/docs/product/pdr/003_30-day-upgrade-promise/): By default, we upgrade our apps within 30 days of an upstream release. We know that falling behind releases and putting upgrades off for extended amounts of time, especially when there’s breaking changes, almost always comes back to bite us.
