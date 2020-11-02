@@ -9,7 +9,7 @@ assignees: ''
 
 Aim to focus on 30DU and get them done within 2 days.
 
-**NGINX Ingress Controller** @giantswarm/app-squad-nginx
+**NGINX Ingress Controller** @giantswarm/app-squad-nginx  
 https://github.com/giantswarm/nginx-ingress-controller-app
 
 * Link to latest release: 
@@ -18,7 +18,7 @@ https://github.com/giantswarm/nginx-ingress-controller-app
 - [ ] upgrade
 - [ ] release
 
-**External DNS** @giantswarm/app-squad-external-dns
+**External DNS** @giantswarm/app-squad-external-dns  
 https://github.com/giantswarm/external-dns-app
 
 * Link to latest release: 
@@ -27,7 +27,7 @@ https://github.com/giantswarm/external-dns-app
 - [ ] upgrade
 - [ ] release
 
-**Cert Manager** @giantswarm/app-squad-cert-manager
+**Cert Manager** @giantswarm/app-squad-cert-manager  
 https://github.com/giantswarm/cert-manager-app
 
 * Link to latest release: 
@@ -36,7 +36,7 @@ https://github.com/giantswarm/cert-manager-app
 - [ ] upgrade
 - [ ] release
 
-**EFK** @giantswarm/app-squad-efk
+**EFK** @giantswarm/app-squad-efk  
 https://github.com/giantswarm/efk-stack-app
 
 * Link to latest release: 
@@ -45,7 +45,8 @@ https://github.com/giantswarm/efk-stack-app
 - [ ] upgrade
 - [ ] release
 
-**Kong** @giantswarm/app-squad-kong
+**Kong** @giantswarm/app-squad-kong  
+https://github.com/giantswarm/kong-app
 
 * Link to latest release: 
 * If won't upgrade, why?
@@ -62,8 +63,8 @@ https://github.com/giantswarm/prometheus-operator-app
 - [ ] upgrade
 - [ ] release
 
-**~~aqua~~**
-https://github.com/giantswarm/aqua-app
+**~~aqua~~**  
+https://github.com/giantswarm/aqua-app  
 
 - [ ] ~~upgrade~~
 - [ ] ~~release~~
