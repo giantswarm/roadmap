@@ -1,37 +1,75 @@
 ---
 name: Upgrade Apps
 about: Create issue to upgrade Managed Apps
-title: Managed Apps Upgrades (Week of {enter date})
+title: Managed Apps Upgrades (Month of {enter date})
 labels: team/halo, kind/upgrade
 assignees: ''
 
 ---
 
-Apps to either be upgraded or decided not to upgrade by Friday this week:
+Aim to focus on 30DU and get them done within 2 days.
 
-- [ ] [nginx ic](https://github.com/giantswarm/nginx-ingress-controller-app) @
+**NGINX Ingress Controller** @giantswarm/app-squad-nginx
+https://github.com/giantswarm/nginx-ingress-controller-app
+
 * Link to latest release: 
 * If won't upgrade, why?
 
-- [ ] [kong](https://github.com/giantswarm/kong-app) @
+- [ ] upgrade
+- [ ] release
+
+**External DNS** @giantswarm/app-squad-external-dns
+https://github.com/giantswarm/external-dns-app
+
 * Link to latest release: 
 * If won't upgrade, why?
 
-- [ ] [efk-stack-app](https://github.com/giantswarm/efk-stack-app/) @webwurst 
+- [ ] upgrade
+- [ ] release
+
+**Cert Manager** @giantswarm/app-squad-cert-manager
+https://github.com/giantswarm/cert-manager-app
+
 * Link to latest release: 
 * If won't upgrade, why?
 
-- [ ] [aqua](https://github.com/giantswarm/aqua-app) @
+- [ ] upgrade
+- [ ] release
+
+**EFK** @giantswarm/app-squad-efk
+https://github.com/giantswarm/efk-stack-app
+
 * Link to latest release: 
 * If won't upgrade, why?
 
-- [ ] [cert-manager](https://github.com/giantswarm/cert-manager-app) @
+- [ ] upgrade
+- [ ] release
+
+**Kong** @giantswarm/app-squad-kong
+
 * Link to latest release: 
 * If won't upgrade, why?
 
-- [ ] [external-dns](https://github.com/giantswarm/external-dns-app) @
+- [ ] upgrade
+- [ ] release
+
+**Prometheus Operator** @giantswarm/app-squad-prometheus
+https://github.com/giantswarm/prometheus-operator-app
+
 * Link to latest release: 
 * If won't upgrade, why?
+
+- [ ] upgrade
+- [ ] release
+
+**~~aqua~~**
+https://github.com/giantswarm/aqua-app
+
+- [ ] ~~upgrade~~
+- [ ] ~~release~~
+
+* Link to latest release: 
+* If won't upgrade, why? @jgsqware or @yasn77 we'll skip checking for any upgrades unless you tell us to.
 
 Notes
 * Team divides the app upgrades amongst ourselves. Please add @ name beside the app
