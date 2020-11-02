@@ -54,7 +54,7 @@ https://github.com/giantswarm/kong-app
 - [ ] upgrade
 - [ ] release
 
-**Prometheus Operator** @giantswarm/app-squad-prometheus
+**Prometheus Operator** @giantswarm/app-squad-prometheus  
 https://github.com/giantswarm/prometheus-operator-app
 
 * Link to latest release: 
