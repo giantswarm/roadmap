@@ -26,19 +26,19 @@ https://github.com/giantswarm/roadmap/milestones
 A: We have 6 columns in order to allow us to be very clear on the stages of the development process:
 
 - **Under consideration:**
-This lists the features we are thinking about. We have not committed to them yet, since we are still checking with our customers, upstream and the market as a whole.
+This lists the features we are thinking about. We have not committed to them, since we are still checking with our customers, upstream and the market as a whole.
 
 - **Future:**
-We intend to work on that in the future, but there is no active development.
+We intend to work on it in the future, but there is no active development yet.
 
 - **Near Term:**
-At this stage we know what we want to build and when we plan to build it. These features are next up to be allocated to development teams, we are working on technical specifications, designs, PoCs.
+At this stage we know what we want to build and when we plan to build it. These features are next up to be allocated to development teams. We are working on technical specifications, designs, PoCs.
 
 - **In Progress:**
 This is our construction site and you get a clear view of what it is that we are building at the moment. These items will be ready in 1-3 months.
 
 - **Ready Soon:**
-We are testing these features and preparing them for release. Expect the features in this column to be available in less than 4 weeks.
+We are testing these features and preparing them for release. Expect the features in this column to be available within 4 weeks.
 
 - **Released:**
 Congratulations! The feature is now available to you. Let us know what you think.
