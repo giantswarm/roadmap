@@ -15,23 +15,32 @@ A: In the spirit of the open source ecosystem and towards the goal of delighting
 
 A: Our primary focus is on security and operational stability. As such, we can't provide specific target dates for features.
 
+**Q: Is it possible to know which features will be included in which release?**
+
+A: Yes! We use [Milestones](https://github.com/giantswarm/roadmap/milestones) to group features by releases so our customers can plan ahead.
+
+https://github.com/giantswarm/roadmap/milestones
+
 **Q: What do the roadmap categories mean?**
 
-A: We have 5 columns in order to allow us to be very clear on the stages of the development process:
+A: We have 6 columns in order to allow us to be very clear on the stages of the development process:
 
 - **Under consideration:**
-This lists the features we are thinking about. We have not committed to them yet, since we are still checking with our customers, upstream and the market as a whole.
+This lists the features we are thinking about. We have not committed to them, since we are still checking with our customers, upstream and the market as a whole.
 
-- **Planned:**
-At this stage we know what we want to build and when we plan to build it. These features are next up to be allocated to development teams.
+- **Future:**
+We intend to work on it in the future, but there is no active development yet.
 
-- **In design:**
-At this stage we are thinking about how to build them well. We are working on technical specifications, designs, PoCs.
+- **Near Term:**
+At this stage we know what we want to build and when we plan to build it. These features are next up to be allocated to development teams. We are working on technical specifications, designs, PoCs.
 
-- **In development:**
-This is our construction site and you get a clear view of what it is that we are building at the moment.
+- **In Progress:**
+This is our construction site and you get a clear view of what it is that we are building at the moment. These items will be ready in 1-3 months.
 
-- **Shipped:**
+- **Ready Soon:**
+We are testing these features and preparing them for release. Expect the features in this column to be available within 4 weeks.
+
+- **Released:**
 Congratulations! The feature is now available to you. Let us know what you think.
 
 **Q: How to navigate the roadmap?**
