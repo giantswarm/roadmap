@@ -19,7 +19,9 @@ A: Our primary focus is on security and operational stability. As such, we can't
 
 A: Yes! We use [Milestones](https://github.com/giantswarm/roadmap/milestones) to group features by releases so our customers can plan ahead.
 
-https://github.com/giantswarm/roadmap/milestones
+Explicit version number, e.g. v13.0.0, means that the feature will be included in this Major release. Non-explicit version number, e.g. v13.x.x, means that the feature will be included in a Minor or Patch release for that Major version. 
+
+Closer to release date, Milestones' description will be updated with link to release PR where you can find the full scope of the release, including release notes and detailed changelog. 
 
 **Q: What do the roadmap categories mean?**
 
