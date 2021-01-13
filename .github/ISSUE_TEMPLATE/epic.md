@@ -24,6 +24,11 @@ Please assign appropriate projects:
 * Giant Swarm Roadmap
 -->
 
+<!--
+Please, make sure to involve SIG Product Marketing when deciding on the feature naming (usually during the specing phase).
+When you have agreed on a feature name, don’t forget to add the short definition to the GS Glossary.
+-->
+
 ## User Story
 
 _- As a (customer|user|admin|...) I want to ... so that ..._
