@@ -63,6 +63,15 @@ https://github.com/giantswarm/prometheus-operator-app
 - [ ] upgrade
 - [ ] release
 
+**Loki** @giantswarm/app-squad-prometheus  @giantswarm/app-squad-loki
+https://github.com/giantswarm/loki-app
+
+* Link to latest release: 
+* If won't upgrade, why?
+
+- [ ] upgrade
+- [ ] release
+
 **~~aqua~~**  
 https://github.com/giantswarm/aqua-app  
 
