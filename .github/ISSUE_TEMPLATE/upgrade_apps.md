@@ -72,14 +72,14 @@ https://github.com/giantswarm/loki-app
 - [ ] upgrade
 - [ ] release
 
-**~~aqua~~**  
+**aqua**  
 https://github.com/giantswarm/aqua-app  
 
-- [ ] ~~upgrade~~
-- [ ] ~~release~~
+- [ ] upgrade
+- [ ] release
 
 * Link to latest release: 
-* If won't upgrade, why? @jgsqware or @yasn77 we'll skip checking for any upgrades unless you tell us to.
+* If won't upgrade, why?
 
 ---
 
