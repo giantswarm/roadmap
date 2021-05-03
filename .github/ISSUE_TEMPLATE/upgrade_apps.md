@@ -15,7 +15,7 @@ https://github.com/giantswarm/nginx-ingress-controller-app
 * Link to latest release: 
 * If won't upgrade, why?
 
-- [ ] check this box if no new upstream release
+- [ ] tick this box if there is no new upstream release and no need for upgrade
 - [ ] upgrade
 - [ ] release
 
@@ -25,7 +25,7 @@ https://github.com/giantswarm/external-dns-app
 * Link to latest release: 
 * If won't upgrade, why?
 
-- [ ] check this box if no new upstream release
+- [ ] tick this box if there is no new upstream release and no need for upgrade
 - [ ] upgrade
 - [ ] release
 
@@ -35,7 +35,7 @@ https://github.com/giantswarm/cert-manager-app
 * Link to latest release: 
 * If won't upgrade, why?
 
-- [ ] check this box if no new upstream release
+- [ ] tick this box if there is no new upstream release and no need for upgrade
 - [ ] upgrade
 - [ ] release
 
@@ -45,7 +45,7 @@ https://github.com/giantswarm/efk-stack-app
 * Link to latest release: 
 * If won't upgrade, why?
 
-- [ ] check this box if no new upstream release
+- [ ] tick this box if there is no new upstream release and no need for upgrade
 - [ ] upgrade
 - [ ] release
 
@@ -55,7 +55,7 @@ https://github.com/giantswarm/kong-app
 * Link to latest release: 
 * If won't upgrade, why?
 
-- [ ] check this box if no new upstream release
+- [ ] tick this box if there is no new upstream release and no need for upgrade
 - [ ] upgrade
 - [ ] release
 
@@ -65,7 +65,7 @@ https://github.com/giantswarm/prometheus-operator-app
 * Link to latest release: 
 * If won't upgrade, why?
 
-- [ ] check this box if no new upstream release
+- [ ] tick this box if there is no new upstream release and no need for upgrade
 - [ ] upgrade
 - [ ] release
 
@@ -75,14 +75,14 @@ https://github.com/giantswarm/loki-app
 * Link to latest release: 
 * If won't upgrade, why?
 
-- [ ] check this box if no new upstream release
+- [ ] tick this box if there is no new upstream release and no need for upgrade
 - [ ] upgrade
 - [ ] release
 
 **aqua**  
 https://github.com/giantswarm/aqua-app  
 
-- [ ] check this box if no new upstream release
+- [ ] tick this box if there is no new upstream release and no need for upgrade
 - [ ] upgrade
 - [ ] release
 
