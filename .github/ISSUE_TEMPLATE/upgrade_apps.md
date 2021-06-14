@@ -76,7 +76,7 @@ https://github.com/giantswarm/loki-app
 * If won't upgrade, why?
 
 - [ ] tick this box if there is no new upstream release and no need for upgrade
-- [ ] Check Promtail
+- [ ] Check Promtail and release together with loki
 - [ ] upgrade
 - [ ] release
 
