@@ -28,6 +28,7 @@ https://github.com/giantswarm/external-dns-app
 - [ ] tick this box if there is no new upstream release and no need for upgrade
 - [ ] upgrade
 - [ ] release
+- [ ] request to include in next AWS + Azure release ([HowTo](https://intranet.giantswarm.io/docs/product/releases/requesting-changes-in-next-platform-release/))
 
 **Cert Manager** @giantswarm/app-squad-cert-manager  
 https://github.com/giantswarm/cert-manager-app
@@ -38,6 +39,7 @@ https://github.com/giantswarm/cert-manager-app
 - [ ] tick this box if there is no new upstream release and no need for upgrade
 - [ ] upgrade
 - [ ] release
+- [ ] request to include in next AWS release ([HowTo](https://intranet.giantswarm.io/docs/product/releases/requesting-changes-in-next-platform-release/))
 
 **EFK** @giantswarm/app-squad-efk  
 https://github.com/giantswarm/efk-stack-app
