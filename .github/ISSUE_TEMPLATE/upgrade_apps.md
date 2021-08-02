@@ -82,17 +82,6 @@ https://github.com/giantswarm/loki-app
 - [ ] upgrade
 - [ ] release
 
-**aqua**  
-https://github.com/giantswarm/aqua-app  
-
-- [ ] tick this box if there is no new upstream release and no need for upgrade
-- [ ] upgrade
-- [ ] release
-
-* Link to latest release: 
-* If won't upgrade, why?
-
-
 **briefing prepared**
 - [ ] 
 ---
