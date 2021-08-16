@@ -71,14 +71,25 @@ https://github.com/giantswarm/prometheus-operator-app
 - [ ] upgrade
 - [ ] release
 
-**Loki** @giantswarm/app-squad-prometheus  @giantswarm/app-squad-loki
-https://github.com/giantswarm/loki-app
+**Loki & Promtail** @giantswarm/app-squad-prometheus  @giantswarm/app-squad-loki
+https://github.com/giantswarm/loki-app https://github.com/giantswarm/promtail-app 
 
 * Link to latest release: 
 * If won't upgrade, why?
 
 - [ ] tick this box if there is no new upstream release and no need for upgrade
 - [ ] Check Promtail and release together with loki
+- [ ] upgrade
+- [ ] release
+
+**Linkerd** @giantswarm/app-squad-linkerd
+https://github.com/giantswarm/linkerd2-app https://github.com/giantswarm/linkerd2-cni-app
+
+* Link to latest release: 
+* If won't upgrade, why?
+
+- [ ] tick this box if there is no new upstream release and no need for upgrade
+- [ ] Check linkerd2-cni-app and release together with linkerd2-cni
 - [ ] upgrade
 - [ ] release
 
