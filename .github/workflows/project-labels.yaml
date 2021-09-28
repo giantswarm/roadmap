@@ -31,7 +31,7 @@ jobs:
         GS_FEATUREREQUEST: feature-request,534325       # Product Board Inbox
         GS_TEAM_ATLAS: team/atlas,8912071               # Team Atlas Inbox
         GS_TEAM_BATMAN: team/batman,6957246             # Team Batman Inbox
-        GS_TEAM_BISCUIT: team/biscuit,8055584           # Team Biscuit Inbox
+        GS_TEAM_RAINBOW: team/rainbow,16167142          # Team Rainbow Inbox
         GS_TEAM_CELESTIAL: team/celestial,6027800       # Team Celestial Inbox
         GS_TEAM_FIRECRACKER: team/firecracker,1526481   # Team Firecracker Inbox
         GS_TEAM_HALO: team/halo,7288839                 # Team Halo Inbox
