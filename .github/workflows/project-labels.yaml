@@ -35,7 +35,6 @@ jobs:
         GS_TEAM_FIRECRACKER: team/firecracker,1526481   # Team Firecracker Inbox
         GS_TEAM_HALO: team/halo,7288839                 # Team Halo Inbox
         GS_TEAM_HONEYBADGER: team/honeybadger,16200567  # Team Honeybadger Inbox
-        GS_TEAM_LUDACRIS: team/ludacris,5162175         # Team Ludacris Inbox
         GS_TEAM_ROCKET: team/rocket,8122274             # Team Rocket Inbox
       run: |
         new_label=$(cat $GITHUB_EVENT_PATH | jq -r .label.name)
