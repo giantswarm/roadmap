@@ -2,7 +2,7 @@
 name: Upgrade Apps
 about: Create issue to upgrade Managed Apps
 title: Managed Apps Upgrades (Month of {enter date})
-labels: kind/upgrade, team/halo
+labels: kind/upgrade
 assignees: ''
 
 ---
