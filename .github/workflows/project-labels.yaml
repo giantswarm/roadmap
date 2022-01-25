@@ -28,12 +28,13 @@ jobs:
     steps:
     - name: Create Project Card for Issue in appropriate Project Column
       env:
-        GS_FEATUREREQUEST: feature-request,534325       # Product Board Inbox
-        GS_TEAM_ATLAS: team/atlas,8912071               # Team Atlas Inbox
-        GS_TEAM_RAINBOW: team/rainbow,16167142          # Team Rainbow Inbox
-        GS_TEAM_PHOENIX: team/phoenix,16425979          # Team Phoenix Inbox
-        GS_TEAM_HONEYBADGER: team/honeybadger,16200567  # Team Honeybadger Inbox
-        GS_TEAM_ROCKET: team/rocket,8122274             # Team Rocket Inbox
+        GS_FEATUREREQUEST: feature-request,534325        # Product Board Inbox
+        GS_TEAM_ATLAS: team/atlas,8912071                # Team Atlas Inbox
+        GS_TEAM_RAINBOW: team/rainbow,16167142           # Team Rainbow Inbox
+        GS_TEAM_PHOENIX: team/phoenix,16425979           # Team Phoenix Inbox
+        GS_TEAM_HONEYBADGER: team/honeybadger,16200567   # Team Honeybadger Inbox
+        GS_TEAM_ROCKET: team/rocket,8122274              # Team Rocket Inbox
+        GS_TEAM_TEDDYFRIENDS: team/teddyfriends,17508743 # Team Teddyfriends Inbox
       run: |
         new_label=$(cat $GITHUB_EVENT_PATH | jq -r .label.name)
         for envvar in $(env | grep GS_ | awk -F '=' '{print $2}'); do
