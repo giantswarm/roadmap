@@ -2,7 +2,7 @@
 
 This repository represents Giant's Swarm's product roadmap.
 
-The [Giant Swarm Roadmap project](https://github.com/giantswarm/roadmap/projects/1) provides a **Kanban-style overview** of  things we are working on by the development stage they are in, even if we are still thinking about them.
+The [Giant Swarm Roadmap project](https://github.com/orgs/giantswarm/projects/273) provides a **Kanban-style overview** of  things we are working on by the development stage they are in, even if we are still thinking about them.
 
 Refer to this [issues](https://github.com/giantswarm/roadmap/issues) list to search roadmap stories.
 
