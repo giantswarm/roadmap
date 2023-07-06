@@ -9,8 +9,8 @@ assignees: ''
 
 Aim to focus on 30DU and get them done within 2 days.
 
-**NGINX Ingress Controller** @giantswarm/app-squad-nginx  
-https://github.com/giantswarm/nginx-ingress-controller-app
+**Ingress NGINX Controller** @giantswarm/app-squad-nginx
+https://github.com/giantswarm/ingress-nginx-app
 
 * Link to latest release: 
 * If won't upgrade, why?

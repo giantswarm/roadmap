@@ -57,7 +57,7 @@ Check migration recommendations from kubernetes and decide what we need to docum
   * [ ] CoreDNS
   * [ ] Kube-state-metrics
   * [ ] Net-exporter
-  * [ ] Nginx ingress controller
+  * [ ] Ingress NGINX Controller
   * [ ] Node-exporter
 * [ ] All helm releases in the giantswarm namespace should be in status deployed
 * [ ] Core components are runnning without errors
@@ -67,7 +67,7 @@ Check migration recommendations from kubernetes and decide what we need to docum
   * [ ] CoreDNS
   * [ ] Kube-state-metrics
   * [ ] Net-exporter
-  * [ ] Nginx ingress controller
+  * [ ] Ingress NGINX Controller
   * [ ] Node-exporter
 * [ ] Cluster-operator is running without errors
 * [ ] Cluster-operator is able to create chart-configs in the tenant
