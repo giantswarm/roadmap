@@ -1,15 +1,15 @@
 ---
-name: Clippy Issue Template
-about: Issue template for team Clippy
+name: Turtles Issue Template
+about: Issue template for team Turtles
 title: ''
-labels: team/clippy
+labels: team/turtles
 assignees: ''
 
 ---
 
 ### Motivation
 <!--
-Short summary and what is our Motivation here? 
+Short summary and why we should do it? 
 -->
 ...
 
@@ -23,10 +23,10 @@ What needs to be done to finish this Story
 
 ### Outcome
 <!--
-How does a customer or Team Clippy Benefit from doing this?
+How does a customer or giantswarm benefit from doing this?
 -->
 **For Customer**
 - ...
 
-**For Clippy**
+**Internal**
 - ...
